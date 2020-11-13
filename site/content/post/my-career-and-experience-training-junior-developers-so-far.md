@@ -22,4 +22,4 @@ At the time we were working inside WeWork (yeah remember that coworking lifestyl
 
 So through him I was able to learn a deeper understanding of React and frontend trends at the time.
 
-Well since this post is getting long, my next post will be of how my responsibility to "lead" a team.
+Well since this post is getting long, my next post will be of how I ended up onboarding and training junior level and intern developers.
