@@ -1,9 +1,7 @@
 ---
-title: How I ended up being defacto "onboarder"
+title: When I realized what we are, and what we need in a team
 date: 2020-12-10T05:30:04.518Z
-description: How? Because I got hired in a startup as an associate level
-  developer. There! That's all there is to this blog. Done. But the amount of
-  different personalities I met though - now that I can't TL;DR;
+description: How much needle can three non-senior developers move in one night?
 ---
 ## Because startup and many hats
 
